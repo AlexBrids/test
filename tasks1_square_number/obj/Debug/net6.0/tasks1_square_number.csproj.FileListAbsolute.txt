@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks1_square_number\bin\Debug\net6.0\tasks1_square_number.exe
+C:\Users\bridskiy\Desktop\homework\tasks1_square_number\bin\Debug\net6.0\tasks1_square_number.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks1_square_number\bin\Debug\net6.0\tasks1_square_number.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks1_square_number\bin\Debug\net6.0\tasks1_square_number.dll
+C:\Users\bridskiy\Desktop\homework\tasks1_square_number\bin\Debug\net6.0\tasks1_square_number.pdb
+C:\Users\bridskiy\Desktop\homework\tasks1_square_number\obj\Debug\net6.0\tasks1_square_number.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks1_square_number\obj\Debug\net6.0\tasks1_square_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks1_square_number\obj\Debug\net6.0\tasks1_square_number.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks1_square_number\obj\Debug\net6.0\tasks1_square_number.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks1_square_number\obj\Debug\net6.0\tasks1_square_number.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks1_square_number\obj\Debug\net6.0\tasks1_square_number.dll
+C:\Users\bridskiy\Desktop\homework\tasks1_square_number\obj\Debug\net6.0\refint\tasks1_square_number.dll
+C:\Users\bridskiy\Desktop\homework\tasks1_square_number\obj\Debug\net6.0\tasks1_square_number.pdb
+C:\Users\bridskiy\Desktop\homework\tasks1_square_number\obj\Debug\net6.0\tasks1_square_number.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks1_square_number\obj\Debug\net6.0\ref\tasks1_square_number.dll

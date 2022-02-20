@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks3_day_of_week\bin\Debug\net6.0\tasks3_day_of_week.exe
+C:\Users\bridskiy\Desktop\homework\tasks3_day_of_week\bin\Debug\net6.0\tasks3_day_of_week.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks3_day_of_week\bin\Debug\net6.0\tasks3_day_of_week.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks3_day_of_week\bin\Debug\net6.0\tasks3_day_of_week.dll
+C:\Users\bridskiy\Desktop\homework\tasks3_day_of_week\bin\Debug\net6.0\tasks3_day_of_week.pdb
+C:\Users\bridskiy\Desktop\homework\tasks3_day_of_week\obj\Debug\net6.0\tasks3_day_of_week.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks3_day_of_week\obj\Debug\net6.0\tasks3_day_of_week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks3_day_of_week\obj\Debug\net6.0\tasks3_day_of_week.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks3_day_of_week\obj\Debug\net6.0\tasks3_day_of_week.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks3_day_of_week\obj\Debug\net6.0\tasks3_day_of_week.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks3_day_of_week\obj\Debug\net6.0\tasks3_day_of_week.dll
+C:\Users\bridskiy\Desktop\homework\tasks3_day_of_week\obj\Debug\net6.0\refint\tasks3_day_of_week.dll
+C:\Users\bridskiy\Desktop\homework\tasks3_day_of_week\obj\Debug\net6.0\tasks3_day_of_week.pdb
+C:\Users\bridskiy\Desktop\homework\tasks3_day_of_week\obj\Debug\net6.0\tasks3_day_of_week.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks3_day_of_week\obj\Debug\net6.0\ref\tasks3_day_of_week.dll

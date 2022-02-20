@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks5_chetnoe_chislo\bin\Debug\net6.0\tasks5_chetnoe_chislo.exe
+C:\Users\bridskiy\Desktop\homework\tasks5_chetnoe_chislo\bin\Debug\net6.0\tasks5_chetnoe_chislo.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks5_chetnoe_chislo\bin\Debug\net6.0\tasks5_chetnoe_chislo.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks5_chetnoe_chislo\bin\Debug\net6.0\tasks5_chetnoe_chislo.dll
+C:\Users\bridskiy\Desktop\homework\tasks5_chetnoe_chislo\bin\Debug\net6.0\tasks5_chetnoe_chislo.pdb
+C:\Users\bridskiy\Desktop\homework\tasks5_chetnoe_chislo\obj\Debug\net6.0\tasks5_chetnoe_chislo.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks5_chetnoe_chislo\obj\Debug\net6.0\tasks5_chetnoe_chislo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks5_chetnoe_chislo\obj\Debug\net6.0\tasks5_chetnoe_chislo.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks5_chetnoe_chislo\obj\Debug\net6.0\tasks5_chetnoe_chislo.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks5_chetnoe_chislo\obj\Debug\net6.0\tasks5_chetnoe_chislo.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks5_chetnoe_chislo\obj\Debug\net6.0\tasks5_chetnoe_chislo.dll
+C:\Users\bridskiy\Desktop\homework\tasks5_chetnoe_chislo\obj\Debug\net6.0\refint\tasks5_chetnoe_chislo.dll
+C:\Users\bridskiy\Desktop\homework\tasks5_chetnoe_chislo\obj\Debug\net6.0\tasks5_chetnoe_chislo.pdb
+C:\Users\bridskiy\Desktop\homework\tasks5_chetnoe_chislo\obj\Debug\net6.0\tasks5_chetnoe_chislo.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks5_chetnoe_chislo\obj\Debug\net6.0\ref\tasks5_chetnoe_chislo.dll
