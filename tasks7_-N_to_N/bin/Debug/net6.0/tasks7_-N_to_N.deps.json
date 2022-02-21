@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "tasks7_ot_1_do_N/1.0.0": {
+      "tasks7_-N_to_N/1.0.0": {
         "runtime": {
-          "tasks7_ot_1_do_N.dll": {}
+          "tasks7_-N_to_N.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "tasks7_ot_1_do_N/1.0.0": {
+    "tasks7_-N_to_N/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bridskiy\\Desktop\\homework\\tasks7_ot_1_do_N\\tasks7_ot_1_do_N.csproj",
-      "projectName": "tasks7_ot_1_do_N",
-      "projectPath": "C:\\Users\\bridskiy\\Desktop\\homework\\tasks7_ot_1_do_N\\tasks7_ot_1_do_N.csproj",
+      "projectUniqueName": "C:\\Users\\bridskiy\\Desktop\\homework\\tasks7_-N_to_N\\tasks7_-N_to_N.csproj",
+      "projectName": "tasks7_-N_to_N",
+      "projectPath": "C:\\Users\\bridskiy\\Desktop\\homework\\tasks7_-N_to_N\\tasks7_-N_to_N.csproj",
       "packagesPath": "C:\\Users\\bridskiy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bridskiy\\Desktop\\homework\\tasks7_ot_1_do_N\\obj\\",
+      "outputPath": "C:\\Users\\bridskiy\\Desktop\\homework\\tasks7_-N_to_N\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bridskiy\\AppData\\Roaming\\NuGet\\NuGet.Config"
