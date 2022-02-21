@@ -8,11 +8,19 @@ Console.WriteLine("Введите число: ");
 string NStr = Console.ReadLine();
 int N = int.Parse(NStr);
 
-while (count < N)
+while (number <= N)
 {
-    if (N > number)
+    if (N >= number)
     {
-        Console.WriteLine()
+        if (number % 2 == 0)
+        {
+            Console.WriteLine(number);
+        }
+        if (number %2 == 1)
+        {
+            Console.WriteLine();
+        }
+        
     }
-    count += 1;
+    number += 1;
 }
