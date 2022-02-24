@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bridskiy\\Desktop\\homework\\tasks6_chetnoe_chislo\\tasks5_chetnoe_chislo.csproj",
-      "projectName": "tasks5_chetnoe_chislo",
-      "projectPath": "C:\\Users\\bridskiy\\Desktop\\homework\\tasks6_chetnoe_chislo\\tasks5_chetnoe_chislo.csproj",
+      "projectUniqueName": "C:\\Users\\bridskiy\\Desktop\\homework\\tasks9_last_of_3\\tasks9_last_of_3.csproj",
+      "projectName": "tasks9_last_of_3",
+      "projectPath": "C:\\Users\\bridskiy\\Desktop\\homework\\tasks9_last_of_3\\tasks9_last_of_3.csproj",
       "packagesPath": "C:\\Users\\bridskiy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bridskiy\\Desktop\\homework\\tasks6_chetnoe_chislo\\obj\\",
+      "outputPath": "C:\\Users\\bridskiy\\Desktop\\homework\\tasks9_last_of_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bridskiy\\AppData\\Roaming\\NuGet\\NuGet.Config"

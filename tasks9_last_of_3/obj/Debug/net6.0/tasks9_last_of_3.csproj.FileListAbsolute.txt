@@ -1,0 +1,15 @@
+C:\Users\bridskiy\Desktop\homework\tasks9_last_of_3\bin\Debug\net6.0\tasks9_last_of_3.exe
+C:\Users\bridskiy\Desktop\homework\tasks9_last_of_3\bin\Debug\net6.0\tasks9_last_of_3.deps.json
+C:\Users\bridskiy\Desktop\homework\tasks9_last_of_3\bin\Debug\net6.0\tasks9_last_of_3.runtimeconfig.json
+C:\Users\bridskiy\Desktop\homework\tasks9_last_of_3\bin\Debug\net6.0\tasks9_last_of_3.dll
+C:\Users\bridskiy\Desktop\homework\tasks9_last_of_3\bin\Debug\net6.0\tasks9_last_of_3.pdb
+C:\Users\bridskiy\Desktop\homework\tasks9_last_of_3\obj\Debug\net6.0\tasks9_last_of_3.csproj.AssemblyReference.cache
+C:\Users\bridskiy\Desktop\homework\tasks9_last_of_3\obj\Debug\net6.0\tasks9_last_of_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridskiy\Desktop\homework\tasks9_last_of_3\obj\Debug\net6.0\tasks9_last_of_3.AssemblyInfoInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks9_last_of_3\obj\Debug\net6.0\tasks9_last_of_3.AssemblyInfo.cs
+C:\Users\bridskiy\Desktop\homework\tasks9_last_of_3\obj\Debug\net6.0\tasks9_last_of_3.csproj.CoreCompileInputs.cache
+C:\Users\bridskiy\Desktop\homework\tasks9_last_of_3\obj\Debug\net6.0\tasks9_last_of_3.dll
+C:\Users\bridskiy\Desktop\homework\tasks9_last_of_3\obj\Debug\net6.0\refint\tasks9_last_of_3.dll
+C:\Users\bridskiy\Desktop\homework\tasks9_last_of_3\obj\Debug\net6.0\tasks9_last_of_3.pdb
+C:\Users\bridskiy\Desktop\homework\tasks9_last_of_3\obj\Debug\net6.0\tasks9_last_of_3.genruntimeconfig.cache
+C:\Users\bridskiy\Desktop\homework\tasks9_last_of_3\obj\Debug\net6.0\ref\tasks9_last_of_3.dll
