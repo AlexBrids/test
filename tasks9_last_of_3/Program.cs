@@ -1,5 +1,7 @@
 ﻿// Показать последнюю цифру трёхзначного числа
 
+Console.Clear();
+
 int GetLastDigit(int number)
 {
     return number % 10;
@@ -13,8 +15,7 @@ int GetIntegerFormConsole(int min, int max)
     {
         Console.Write($"Введите целое число от {min} до {max}: ");
         string input = Console.ReadLine();
-        result = int.Parse(input);
-        isError = result < min || result > max;      
+        if (int.TryParse(input, out result)) isError = result < min || result > max;      
     }
     return result;
 }
