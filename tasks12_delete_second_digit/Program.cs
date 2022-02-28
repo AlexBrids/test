@@ -11,11 +11,12 @@ int GetMumber ()
 int number = GetMumber();
 Console.WriteLine($"Исходное число: {number}");
 
-void DeleteSecondDigit(int getNumber)
+void DeleteSecondDigit(int helloTom)
 {
-    int secondDigit = getNumber % 10;
+    int secondDigit = helloTom % 10;
     string secondResult = Convert.ToString(secondDigit);
-    int firstDigit = getNumber / 100;
+
+    int firstDigit = helloTom / 100;
     string firstResult = Convert.ToString(firstDigit);
     Console.WriteLine(firstResult + secondResult);
 

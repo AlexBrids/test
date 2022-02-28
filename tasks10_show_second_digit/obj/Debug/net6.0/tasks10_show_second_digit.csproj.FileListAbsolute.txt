@@ -1,0 +1,15 @@
+C:\Users\Бридский\Desktop\2\tasks10_show_second_digit\bin\Debug\net6.0\tasks10_show_second_digit.exe
+C:\Users\Бридский\Desktop\2\tasks10_show_second_digit\bin\Debug\net6.0\tasks10_show_second_digit.deps.json
+C:\Users\Бридский\Desktop\2\tasks10_show_second_digit\bin\Debug\net6.0\tasks10_show_second_digit.runtimeconfig.json
+C:\Users\Бридский\Desktop\2\tasks10_show_second_digit\bin\Debug\net6.0\tasks10_show_second_digit.dll
+C:\Users\Бридский\Desktop\2\tasks10_show_second_digit\bin\Debug\net6.0\ref\tasks10_show_second_digit.dll
+C:\Users\Бридский\Desktop\2\tasks10_show_second_digit\bin\Debug\net6.0\tasks10_show_second_digit.pdb
+C:\Users\Бридский\Desktop\2\tasks10_show_second_digit\obj\Debug\net6.0\tasks10_show_second_digit.csproj.AssemblyReference.cache
+C:\Users\Бридский\Desktop\2\tasks10_show_second_digit\obj\Debug\net6.0\tasks10_show_second_digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Бридский\Desktop\2\tasks10_show_second_digit\obj\Debug\net6.0\tasks10_show_second_digit.AssemblyInfoInputs.cache
+C:\Users\Бридский\Desktop\2\tasks10_show_second_digit\obj\Debug\net6.0\tasks10_show_second_digit.AssemblyInfo.cs
+C:\Users\Бридский\Desktop\2\tasks10_show_second_digit\obj\Debug\net6.0\tasks10_show_second_digit.csproj.CoreCompileInputs.cache
+C:\Users\Бридский\Desktop\2\tasks10_show_second_digit\obj\Debug\net6.0\tasks10_show_second_digit.dll
+C:\Users\Бридский\Desktop\2\tasks10_show_second_digit\obj\Debug\net6.0\ref\tasks10_show_second_digit.dll
+C:\Users\Бридский\Desktop\2\tasks10_show_second_digit\obj\Debug\net6.0\tasks10_show_second_digit.pdb
+C:\Users\Бридский\Desktop\2\tasks10_show_second_digit\obj\Debug\net6.0\tasks10_show_second_digit.genruntimeconfig.cache
