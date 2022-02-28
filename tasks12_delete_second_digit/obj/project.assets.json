@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Бридский\\Desktop\\2\\tasks13_multiple_number\\tasks13_multiple_number.csproj",
-      "projectName": "tasks13_multiple_number",
-      "projectPath": "C:\\Users\\Бридский\\Desktop\\2\\tasks13_multiple_number\\tasks13_multiple_number.csproj",
+      "projectUniqueName": "C:\\Users\\Бридский\\Desktop\\2\\tasks12_delete_second_digit\\tasks12_delete_second_digit.csproj",
+      "projectName": "tasks12_delete_second_digit",
+      "projectPath": "C:\\Users\\Бридский\\Desktop\\2\\tasks12_delete_second_digit\\tasks12_delete_second_digit.csproj",
       "packagesPath": "C:\\Users\\Бридский\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Бридский\\Desktop\\2\\tasks13_multiple_number\\obj\\",
+      "outputPath": "C:\\Users\\Бридский\\Desktop\\2\\tasks12_delete_second_digit\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Бридский\\AppData\\Roaming\\NuGet\\NuGet.Config"
