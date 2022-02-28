@@ -1,0 +1,15 @@
+C:\Users\Бридский\Desktop\2\tasks8_show_even_number\bin\Debug\net6.0\tasks8_show_even_number.exe
+C:\Users\Бридский\Desktop\2\tasks8_show_even_number\bin\Debug\net6.0\tasks8_show_even_number.deps.json
+C:\Users\Бридский\Desktop\2\tasks8_show_even_number\bin\Debug\net6.0\tasks8_show_even_number.runtimeconfig.json
+C:\Users\Бридский\Desktop\2\tasks8_show_even_number\bin\Debug\net6.0\tasks8_show_even_number.dll
+C:\Users\Бридский\Desktop\2\tasks8_show_even_number\bin\Debug\net6.0\ref\tasks8_show_even_number.dll
+C:\Users\Бридский\Desktop\2\tasks8_show_even_number\bin\Debug\net6.0\tasks8_show_even_number.pdb
+C:\Users\Бридский\Desktop\2\tasks8_show_even_number\obj\Debug\net6.0\tasks8_show_even_number.csproj.AssemblyReference.cache
+C:\Users\Бридский\Desktop\2\tasks8_show_even_number\obj\Debug\net6.0\tasks8_show_even_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Бридский\Desktop\2\tasks8_show_even_number\obj\Debug\net6.0\tasks8_show_even_number.AssemblyInfoInputs.cache
+C:\Users\Бридский\Desktop\2\tasks8_show_even_number\obj\Debug\net6.0\tasks8_show_even_number.AssemblyInfo.cs
+C:\Users\Бридский\Desktop\2\tasks8_show_even_number\obj\Debug\net6.0\tasks8_show_even_number.csproj.CoreCompileInputs.cache
+C:\Users\Бридский\Desktop\2\tasks8_show_even_number\obj\Debug\net6.0\tasks8_show_even_number.dll
+C:\Users\Бридский\Desktop\2\tasks8_show_even_number\obj\Debug\net6.0\ref\tasks8_show_even_number.dll
+C:\Users\Бридский\Desktop\2\tasks8_show_even_number\obj\Debug\net6.0\tasks8_show_even_number.pdb
+C:\Users\Бридский\Desktop\2\tasks8_show_even_number\obj\Debug\net6.0\tasks8_show_even_number.genruntimeconfig.cache
